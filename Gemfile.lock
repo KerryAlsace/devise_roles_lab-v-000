@@ -41,6 +41,7 @@ GEM
     bcrypt (3.1.11)
     builder (3.2.2)
     byebug (8.2.4)
+    cancancan (1.13.1)
     capybara (2.7.0)
       addressable
       mime-types (>= 1.16)
@@ -192,6 +193,7 @@ PLATFORMS
 
 DEPENDENCIES
   byebug
+  cancancan
   capybara
   coffee-rails
   database_cleaner
